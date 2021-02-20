@@ -14,13 +14,13 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-- thẻ ko chứa thẻ con
+
+    2 loại thẻ
+    - thẻ mà ko chứa thẻ con
     <TextView />
-  - thẻ có chứa thẻ con
+    - thẻ có chứa thẻ con
     <LinearLayout>
 
     </LinearLayout>
-
-
 
 </LinearLayout>
